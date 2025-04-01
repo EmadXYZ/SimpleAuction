@@ -36,6 +36,7 @@ A **secure**, **efficient**, and **trustless** smart contract for conducting **b
 ## 📥 Clone the Repository
 
 To get a local copy up and running, run the following command:
+```bash
 git clone https://github.com/EmadXYZ/SimpleAuction.git
 
 
