@@ -1,0 +1,9 @@
+
+
+
+
+!contracts/
+
+
+contracts/*
+!contracts/SimpleAuction.sol
