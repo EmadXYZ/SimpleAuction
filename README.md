@@ -33,13 +33,6 @@ A **secure**, **efficient**, and **trustless** smart contract for conducting **b
 
 ---
 
-## 📥 Clone the Repository
-
-To get a local copy up and running, run the following command:
-```bash
-git clone https://github.com/EmadXYZ/SimpleAuction.git
-```
-
 ## 📄 License  
 
 This project is licensed under the **MIT License** – you're free to use, modify, and distribute it!  
@@ -47,3 +40,10 @@ This project is licensed under the **MIT License** – you're free to use, modif
 📌 **Contributions are welcome! Feel free to fork, improve, and submit a pull request.** 🤝  
 
 ---
+
+## 📥 Clone the Repository
+
+To get a local copy up and running, run the following command:
+```bash
+git clone https://github.com/EmadXYZ/SimpleAuction.git
+```
