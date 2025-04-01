@@ -1,0 +1,12 @@
+# Ignore all files and folders
+*
+
+# Except the following files and folders
+!.gitignore
+!LICENSE
+!README.md
+!contracts/
+
+# Ignore everything inside contracts except SimpleAuction.sol
+contracts/*
+!contracts/SimpleAuction.sol
